@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumXor", "sumXor\sumXor.csproj", "{BEBF2B96-72F3-4C6A-948A-2BBB6D5A695C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEBF2B96-72F3-4C6A-948A-2BBB6D5A695C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBF2B96-72F3-4C6A-948A-2BBB6D5A695C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBF2B96-72F3-4C6A-948A-2BBB6D5A695C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBF2B96-72F3-4C6A-948A-2BBB6D5A695C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F3F6401-1DB5-4431-8F2B-7F229E7CF6F7}
+	EndGlobalSection
+EndGlobal
