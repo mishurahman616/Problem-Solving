@@ -4,18 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace sumXor
+namespace Test
 {
     public class Result
     {
-        /*
-     * Complete the 'getTotalX' function below.
-     *
-     * The function is expected to return an INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER_ARRAY a
-     *  2. INTEGER_ARRAY b
-     */
+
         public static int CalculateLCM(int a, int b)
         {
             return (b / CalculateGCF(a, b)) * a;
